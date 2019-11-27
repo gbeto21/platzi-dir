@@ -2,7 +2,7 @@ type Curso{
     _id: ID!
     title: String!
     teacher: String!
-    descripion: String!
+    description: String!
     topic: String!
 }
 
