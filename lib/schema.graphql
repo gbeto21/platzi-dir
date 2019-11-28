@@ -25,7 +25,7 @@ type Query {
 }
 
 input CourseInput{
-    title: String!
+    title: String
     teacher: String
     description: String!
     topic: String
